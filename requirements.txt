@@ -1,0 +1,5 @@
+peewee
+mysql
+mysql-connector
+mysqlclient
+pandas
