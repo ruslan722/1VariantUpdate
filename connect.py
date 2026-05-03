@@ -1,7 +1,7 @@
 from peewee import AutoField,  MySQLDatabase, IntegerField, CharField, \
      Model
 
-db =MySQLDatabase('var', user='root', password= 'root', host ='localhost', port=3307)
+db =MySQLDatabase('var', user='root', password= 'root', host ='localhost', port=3306)
 
 
 class BaseModel(Model):
